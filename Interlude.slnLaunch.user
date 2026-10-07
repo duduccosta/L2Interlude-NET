@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Login + Game",
+    "Projects": [
+      {
+        "Path": "LoginService\\LoginService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "GameService\\GameService.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
